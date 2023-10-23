@@ -104,3 +104,25 @@ th{
 table{
     border-spacing: 0px;
 }
+
+h3{
+    color: gray;
+    margin-left: 5px;
+}
+
+#monitor{
+    margin-bottom: 5px;
+    background-image: url(../img/monitor.jpg);
+    color: #FFFFFF;
+    width: 312px;
+    height: 208px;
+    text-align: center;
+}
+
+#grafico{
+    background-image: url(../img/graph.jpg);
+    color: #FFFFFF;
+    width: 311px;
+    height: 207px;
+    text-align: center;
+}
