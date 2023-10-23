@@ -1,5 +1,7 @@
 body{
     margin: 0;
+    width: 100%;
+    padding: 0%;
 }
 
 .backgroundpattern{
@@ -22,8 +24,6 @@ body{
 .contenitore{
     margin-left: 5px;
 }
-
-
 
 
 
@@ -69,7 +69,7 @@ h1{
     margin-left: 5px;
 }
 
-#testoevidenziato{
+.testoevidenziato{
     background-color: yellow;
 }
 
@@ -82,3 +82,25 @@ li{
     display: inline-block;
 }
 
+.larghezza{
+    width: 20%;
+    text-align: left;
+}
+
+
+tr:nth-child(odd){
+    background: rgb(61, 177, 255,0.5);
+}
+
+
+th{
+    color: white;
+}
+
+#bghead{
+    background: blue;
+}
+
+table{
+    border-spacing: 0px;
+}
