@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 .backgroundpattern{
     background-color: rgb(74, 204, 255);
     background-image: url(../img/pattern.png);
@@ -13,3 +17,49 @@
     margin-top: 70px;
     margin-left: 5px;
 }
+
+
+.contenitore{
+    margin-left: 5px;
+}
+
+
+
+
+
+h1{
+    text-align: left;
+    font-weight: 1000;
+    font-size: 3em;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 5px;
+}
+
+.autore1{
+    display: inline-block;
+    margin-top: 0px;
+    color: grey;
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+
+#autore2{
+    color: blue;
+}
+
+.dataeditore{
+    display: inline-block;
+    margin: 0px;
+    color: grey;
+    margin-left: 5px;
+}
+
+.descfoto{
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 5px;
+}
+
