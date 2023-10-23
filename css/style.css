@@ -1,0 +1,15 @@
+.backgroundpattern{
+    background-color: rgb(74, 204, 255);
+    background-image: url(../img/pattern.png);
+    width: 100%;
+    display: inline-block;
+    height: 160px;
+    background-position: top;
+}
+
+#logo{
+    width: 300px;
+    height: auto;
+    margin-top: 70px;
+    margin-left: 5px;
+}
